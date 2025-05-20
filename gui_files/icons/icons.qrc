@@ -1,0 +1,47 @@
+<RCC>
+  <qresource prefix="icons">
+    <file>check-mark.png</file>
+    <file>about us.png</file>
+    <file>ACE Logo.png</file>
+    <file>activity-feed-256.png</file>
+    <file>activity-feed-256-W.png</file>
+    <file>analytics-256.png</file>
+    <file>analytics-256-W.png</file>
+    <file>arrow-217-256.png</file>
+    <file>brain-32.png</file>
+    <file>check-mark.png</file>
+    <file>close-window-256.png</file>
+    <file>close-window-256-W.png</file>
+    <file>data-transfer-download-256.png</file>
+    <file>data-transfer-upload-256.png</file>
+    <file>document-2-256.png</file>
+    <file>email-12-256.png</file>
+    <file>Home_page_picture.png</file>
+    <file>home-4-256.png</file>
+    <file>home-4-256-W.png</file>
+    <file>icons.qrc</file>
+    <file>info-5-32.png</file>
+    <file>info-256 (1).png</file>
+    <file>info-256.png</file>
+    <file>LOGO TRANSPARENT.png</file>
+    <file>low-importance-256.png</file>
+    <file>low-importance-256-W.png</file>
+    <file>menu-4-256 (1).png</file>
+    <file>menu-4-256.png</file>
+    <file>pause-256.png</file>
+    <file>play-256.png</file>
+    <file>report-3-32.png</file>
+    <file>resource_rc.py</file>
+    <file>screenshot-256.png</file>
+    <file>screenshot-256-W.png</file>
+    <file>search-13-256.png</file>
+    <file>search-13-256-W.png</file>
+    <file>SPARTA.png</file>
+    <file>Untitled design (5).png</file>
+    <file>user-256 (1).png</file>
+    <file>user-256.png</file>
+    <file>video-hd-2-256.png</file>
+    <file>video-multi-256.png</file>
+    <file>webcam-2-256.png</file>
+  </qresource>
+</RCC>
